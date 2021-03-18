@@ -1,0 +1,1 @@
+create table user1(id varchar(30) primary key,email varchar(50),name varchar(50),access_token varchar(200));
